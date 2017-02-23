@@ -19,6 +19,7 @@ info:
   x-21-keywords: [ping, network]
   x-21-quick-buy: "$ 21 buy url http://<ZEROTIER IP>:6002/?uri=google.com"
   x-21-total-price: {max: 5, min: 5}
+  version: '1.0'
 paths:
   /:
     get:
